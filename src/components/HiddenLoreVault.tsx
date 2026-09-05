@@ -166,7 +166,7 @@ export const HiddenLoreVault: React.FC<HiddenLoreVaultProps> = ({ isUnlocked, on
       ) : (
         /* UNLOCKED STATE: DOSSIER VAULT */
         <div className="space-y-8">
-          {/* Topography Battlefield Blueprint Map Bento Box */}
+          {/* Topography Battlefield Blueprint Map Matrix */}
           <div className="rounded-xl border border-zinc-800 bg-zinc-900/40 p-5 sm:p-6 shadow-xl">
             <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-4 pb-3 border-b border-zinc-800">
               <div className="flex items-center gap-2">

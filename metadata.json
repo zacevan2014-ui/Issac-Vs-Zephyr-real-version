@@ -2,5 +2,7 @@
   "name": "Issac vs Zephyr: The Definitive Dossier",
   "description": "The official combat database and fan archive for the Issac vs Zephyr series: episode theater, character biographies, numerical combat engines, frame data, domain clash simulator, fan forum, and classified lore.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }

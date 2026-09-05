@@ -220,7 +220,7 @@ export const CharacterEngine: React.FC<CharacterEngineProps> = ({ initialFighter
             </div>
           </div>
 
-          {/* SECTION I: 100-POINT ATTRIBUTE RATINGS BENTO GRID */}
+          {/* SECTION I: 100-POINT ATTRIBUTE RATINGS MATRIX */}
           <div className="rounded-xl border border-zinc-800 bg-zinc-900/40 p-5 sm:p-6">
             <h4 className="font-mono text-xs font-bold uppercase tracking-[0.2em] text-zinc-400 mb-5 flex items-center gap-2">
               <SlidersHorizontal className="h-4 w-4 text-emerald-400" />
